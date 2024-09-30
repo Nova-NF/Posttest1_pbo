@@ -1,7 +1,12 @@
 # Posttest1_pbo
 Pemrograman berorientasi objek
 
-Di program tersebut merupakan sistem manajemen layanan kebersihan berbasis teks yang memungkinkan pengguna untuk menambah, melihat, memperbarui, dan menghapus layanan kebersihan. Untuk sekarang sistem ini hanya di peruntukan untuk admin dalam melakukan CRUD pada sistem. Ada beberapa menu yang terdapat pada program tersebut:
+Di program tersebut merupakan sistem manajemen layanan kebersihan berbasis teks yang memungkinkan pengguna untuk menambah, melihat, memperbarui, dan menghapus layanan kebersihan. Untuk sekarang sistem ini hanya di peruntukan untuk admin dalam melakukan CRUD pada sistem. Dalam program ini, ada dua package yang digunakan:
+1. package com.mycompany.posttest1
+2.package service
+![image](https://github.com/user-attachments/assets/e3c9c497-ed89-42b7-baf9-ce26fc0e1182)
+
+Kemudian ada beberapa menu yang terdapat pada program tersebut yaitu:
 
 1. Menu Utama
 ![image](https://github.com/user-attachments/assets/516276f8-bb92-4866-b7b1-c52a7f5e14df)
