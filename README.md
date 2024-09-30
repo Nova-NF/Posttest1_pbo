@@ -1,6 +1,9 @@
 # Posttest1_pbo
 Pemrograman berorientasi objek
 
+Nama : Nova Nur Fauziah
+Nim  : 2309116043
+
 Di program tersebut merupakan sistem manajemen layanan kebersihan berbasis teks yang memungkinkan pengguna untuk menambah, melihat, memperbarui, dan menghapus layanan kebersihan. Untuk sekarang sistem ini hanya di peruntukan untuk admin dalam melakukan CRUD pada sistem. Dalam program ini, ada dua package yang digunakan:
 1. package com.mycompany.posttest1
 2.package service
